@@ -1,2 +1,2 @@
-# Codes-for-fun-
+# Codes for fun
 May be useful
